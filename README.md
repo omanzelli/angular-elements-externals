@@ -11,7 +11,6 @@ The `ElementContainerComponent` is created dynamically and then added to the DOM
 For building the library use the `build-services` npm script.
 
 
-
 ## The issue
 Building using `--extra-webpack-config webpack.externals.js` parameter, the CustomCompont is not properly loaded.
 
